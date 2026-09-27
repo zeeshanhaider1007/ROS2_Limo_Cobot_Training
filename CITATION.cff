@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this training material, please cite it as below."
+title: "ROS 2 & LIMO Cobot Training"
+abstract: >-
+  A hands-on, 4-day beginner course on ROS 2 and the LIMO Cobot:
+  Day 1 covers ROS/ROS 2 concepts with a turtlesim lab; Day 2 covers the
+  ros2 CLI, workspaces, packages, and writing a first publisher/subscriber in
+  Python; Day 3 covers LIMO Cobot hardware bring-up, driving, and sensing;
+  Day 4 covers SLAM with Cartographer, navigation with Nav2, and control of
+  the myCobot 280 M5 arm with MoveIt 2.
+type: software
+authors:
+  - family-names: "Haider"
+    given-names: "Zeeshan"
+    affiliation: "Automated Systems & Computing Lab (ASCL)"
+  - family-names: "Ahmed"
+    given-names: "Saim"
+    affiliation: "Automated Systems & Computing Lab (ASCL)"
+license: CC-BY-4.0
+version: "1.0.0"
+date-released: "2026-09-27"
+keywords:
+  - ROS 2
+  - ROS 2 Foxy
+  - robotics education
+  - LIMO Cobot
+  - mobile robot
+  - SLAM
+  - Nav2
+  - MoveIt 2
+  - myCobot
